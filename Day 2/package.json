@@ -1,0 +1,12 @@
+{
+  "name": "day2-status",
+  "version": "1.0.0",
+  "description": "Tiny internal status-check service (Node.js)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

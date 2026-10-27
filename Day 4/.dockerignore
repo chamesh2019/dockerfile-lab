@@ -1,0 +1,7 @@
+.env
+debug.log
+__pycache__
+SCENARIO.md
+
+artifacts/
+node_modules/

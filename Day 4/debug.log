@@ -1,0 +1,6 @@
+2026-10-18T22:01:03Z INFO  boot: config loaded
+2026-10-18T22:01:03Z INFO  boot: static handler ready
+2026-10-18T22:01:04Z DEBUG request GET / -> 200
+2026-10-18T22:01:05Z DEBUG request GET / -> 200
+2026-10-18T22:01:07Z WARN  slow path hit (12ms)
+2026-10-18T22:01:09Z DEBUG request GET / -> 200

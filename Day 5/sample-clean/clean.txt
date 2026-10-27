@@ -1,0 +1,3 @@
+Clean sample
+============
+Nothing sensitive is stored here.

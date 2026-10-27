@@ -1,0 +1,4 @@
+{
+  "banned_tokens": ["password", "api_key", "secret", "TODO"],
+  "extensions": [".txt", ".md"]
+}

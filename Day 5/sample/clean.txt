@@ -1,0 +1,4 @@
+Deployment notes
+================
+The service listens on the configured port and logs to stderr.
+No credentials belong in this file.
